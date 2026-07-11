@@ -1,6 +1,5 @@
 # IT Help Desk Home Lab
-This repository documents a Windows Server home lab built to develop practical IT support and Windows system administration skills. The lab simulates common enterprise IT tasks including Active Directory administration, Windows Server management, user account administration, NTFS permissions, DNS, DHCP, PowerShell, and help desk ticket management using Spiceworks.
-
+This repository documents a Windows Server–based IT Help Desk home lab designed to simulate real-world enterprise IT support tasks. The lab focuses on Active Directory administration, Windows Server management, user account administration, NTFS permissions, DNS, DHCP, PowerShell, and help desk ticket management using Spiceworks.
 ## Skills Demonstrated
 - Windows Server Administration
 - Active Directory
