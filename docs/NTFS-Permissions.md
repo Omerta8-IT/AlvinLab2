@@ -20,7 +20,7 @@ Configure and troubleshoot NTFS permissions to provide users with the appropriat
 - Verified least privilege access
 - Tested Read, Modify, and Full Control permissions
 - Removed unnecessary inherited permissions
-- Verified user access from a Windows 10 workstation
+- Verified folder access after assigning permissions through Active Directory security groups
 - Troubleshot permission issues
 
 ## Skills Demonstrated
